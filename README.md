@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sagar Verma, a Computer Science & Engineering graduate from Amity University, Raipur.<br><br>💻 I work with Python, SQL, C, and C++, and I enjoy building data-driven and AI-powered projects.<br><br>🔐 I built BaaZ, a privacy-first biometric recognition system, and developed MindMate, an app with NLP integration.<br><br>📊 I also analyze data using Excel, Power BI, and Tableau.<br><br>🎯 I'm currently looking for entry-level roles in IT Support, Systems Administration, and Identity & Access Management.<br><br>📫 You can reach me at sagarverma.gs@gmail.com or on LinkedIn: linkedin.com/in/sagar-v3rma
+👋 Hi, I'm Sagar Verma, a Computer Science & Engineering graduate from Amity University, Raipur.<br><br>💻 I work with Python, SQL, C, and C++, and I enjoy building data-driven and AI-powered projects.<br><br>🔐 I built BaaZ, a privacy-first biometric recognition system, and developed MindMate, an app with NLP integration.<br><br>📊 I also analyze data using Excel, Power BI, and Tableau.<br><br>🎯 I'm currently looking for entry-level roles in IT Support, Systems Administration, and Identity & Access Management.<br><br>📫 You can reach me at sagarverma.gs@gmail.com
 
 
 ## 🌐 Socials:
